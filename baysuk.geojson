@@ -10,7 +10,7 @@
     "properties": {
     "title":"Montague Street",
     "icon": "beer.svg",
-      "symbol": "beer.svg",
+      "marker-symbol": "beer",
       "scale": "medium",
      "marker-size": "medium",
      "color": "#ff0000",
