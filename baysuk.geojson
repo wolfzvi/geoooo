@@ -9,7 +9,8 @@
     },
     "properties": {
     "title":"Montague Street",
-    "marker-symbol": "heart",
+    "icon": "heart",
+"scale": "medium",
      "marker-size": "medium",
      "marker-color": "#ff0000",
     "description":"Edinburgh",
