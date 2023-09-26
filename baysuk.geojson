@@ -10,10 +10,10 @@
     "properties": {
     "title":"Montague Street",
     "icon": "beer.svg",
-"symbol": "beer.svg",
-"scale": "medium",
+      "symbol": "beer.svg",
+      "scale": "medium",
      "marker-size": "medium",
-     "marker-color": "#ff0000",
+     "color": "#ff0000",
     "description":"Edinburgh",
     "streetview":"<a href='https://www.google.co.uk/maps/@55.9419421,-3.1805046,3a,75y,182.65h,59.03t/data=!3m6!1e1!3m4!1smQGQvoUPPDWXnbdjpGZoWg!2e0!7i16384!8i8192' target='blank'>Google Street View</a>",
     "cost":"Free",
