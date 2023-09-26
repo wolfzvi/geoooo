@@ -9,7 +9,7 @@
     },
     "properties": {
     "title":"Montague Street",
-    "marker-symbol": "beer",
+    "marker-symbol": "heart",
      "marker-size": "medium",
      "marker-color": "#ff0000",
     "description":"Edinburgh",
