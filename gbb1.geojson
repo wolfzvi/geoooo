@@ -35350,6 +35350,7 @@
     "road":"Mann Island",
     "place":"Liverpool",
     "clusterid":3945
+}
     },
 {
     "type": "Feature",
@@ -35361,6 +35362,7 @@
     "road":"Wells Street",
     "place":"City of Westminster",
     "clusterid":3946
+}
     },
 {
     "type": "Feature",
@@ -35374,4 +35376,5 @@
     "clusterid":3947
     }
   }
+]
 }
