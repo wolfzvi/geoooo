@@ -35339,6 +35339,39 @@
     "road":"Rue de Vintimille",
     "place":"Paris",
     "clusterid":3944
+    },
+{
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.403835,-2.994685 ]
+    },
+    "properties": {
+    "road":"Mann Island",
+    "place":"Liverpool",
+    "clusterid":3945
+    },
+{
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.51791,-0.138856 ]
+    },
+    "properties": {
+    "road":"Wells Street",
+    "place":"City of Westminster",
+    "clusterid":3946
+    },
+{
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.517936,-0.13901 ]
+    },
+    "properties": {
+    "road":"Wells Street",
+    "place":"City of Westminster",
+    "clusterid":3947
     }
   }
 ]
