@@ -36432,6 +36432,162 @@
     "place":"Hammersmith and Fulham\n",
     "clusterid":4035
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127946,51.438082 ]
+    },
+    "properties": {
+    "road":"Drewstead Road",
+    "place":"Lambeth",
+    "clusterid":4036
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.416607,51.507989 ]
+    },
+    "properties": {
+    "road":"Coldharbour Lane",
+    "place":"Hillingdon",
+    "clusterid":4037
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.137494,51.521989 ]
+    },
+    "properties": {
+    "road":"Maple Place",
+    "place":"Camden",
+    "clusterid":4038
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.140477,1.524092 ]
+    },
+    "properties": {
+    "road":"Fitzroy Street",
+    "place":"Camden",
+    "clusterid":4039
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127765,51.521676 ]
+    },
+    "properties": {
+    "road":"Russell Square",
+    "place":"Camden",
+    "clusterid":4040
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1219447893,51.52157822 ]
+    },
+    "properties": {
+    "road":"Queen Square",
+    "place":"Camden",
+    "clusterid":4041
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1222721987,51.52112084 ]
+    },
+    "properties": {
+    "road":"Queen Square",
+    "place":"Camden",
+    "clusterid":4042
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.118876,51.523652 ]
+    },
+    "properties": {
+    "road":"Guildford Street",
+    "place":"Camden",
+    "clusterid":4043
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.211318,50.592774 ]
+    },
+    "properties": {
+    "road":"La Falaise Car Park",
+    "place":"Isle of Wight",
+    "clusterid":4044
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.015652,51.455397 ]
+    },
+    "properties": {
+    "road":"Lewisham High Street",
+    "place":"Lewisham",
+    "clusterid":4045
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.05448,51.366034 ]
+    },
+    "properties": {
+    "road":"Sainsbury's Car Park",
+    "place":"Bromley",
+    "clusterid":4046
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.1805411,55.9418974 ]
+    },
+    "properties": {
+    "road":"Montague Street",
+    "place":"Edinburgh",
+    "clusterid":4047
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.481725,52.535105 ]
+    },
+    "properties": {
+    "road":"The Church Plain Car Park",
+    "place":"Loddon",
+    "clusterid":4048
+    }
   }
 ]
 }
