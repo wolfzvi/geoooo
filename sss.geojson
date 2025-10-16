@@ -26625,7 +26625,7 @@
     },
     "properties": {
     "road":"Redchurch Street",
-    "place":"Tower Hamlets",
+    "place":"Hackney",
     "clusterid":3218
     }
   },
@@ -26637,7 +26637,7 @@
     },
     "properties": {
     "road":"Redchurch Street",
-    "place":"Tower Hamlets",
+    "place":"Hackney",
     "clusterid":3219
     }
   },
@@ -27383,18 +27383,6 @@
     "road":"Brook Drive",
     "place":"Lambeth",
     "clusterid":3281
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -0.110784,51.495066 ]
-    },
-    "properties": {
-    "road":"Kennington Road",
-    "place":"Lambeth",
-    "clusterid":3282
     }
   },
   {
@@ -38477,7 +38465,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -0.150281,0.821959 ]
+       "coordinates":  [ -0.150281,50.821959 ]
     },
     "properties": {
     "road":"Regency Square",
@@ -38891,6 +38879,1362 @@
     "road":"Nevern Place",
     "place":"Kensington and Chelsea",
     "clusterid":4242
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.200871,51.494373 ]
+    },
+    "properties": {
+    "road":"Pembroke Road",
+    "place":"Kensington and Chelsea",
+    "clusterid":4243
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.16798,51.487987 ]
+    },
+    "properties": {
+    "road":"Chelsea Manor Street",
+    "place":"Kensington and Chelsea",
+    "clusterid":4244
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.551537,51.587688 ]
+    },
+    "properties": {
+    "road":"Tesco Car Park",
+    "place":"Gerrards Cross",
+    "clusterid":4245
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.02602,51.36288 ]
+    },
+    "properties": {
+    "road":"Whitstable Harbour",
+    "place":"Whitstable",
+    "clusterid":4246
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.025925,51.363002 ]
+    },
+    "properties": {
+    "road":"Whitstable Harbour",
+    "place":"Whitstable",
+    "clusterid":4247
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.109781,51.495099 ]
+    },
+    "properties": {
+    "road":"Brook Drive",
+    "place":"Lambeth",
+    "clusterid":4248
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.324568,51.478605 ]
+    },
+    "properties": {
+    "road":"Cart Lane",
+    "place":"Grays",
+    "clusterid":4249
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4773924758,51.73085291 ]
+    },
+    "properties": {
+    "road":"Meadows Surface Car Park",
+    "place":"Chelmsford",
+    "clusterid":4250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.139191,51.537872 ]
+    },
+    "properties": {
+    "road":"Pratt Street",
+    "place":"Camden",
+    "clusterid":4251
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.211067,51.511319 ]
+    },
+    "properties": {
+    "road":"Portland Road",
+    "place":"Kensington and Chelsea\n",
+    "clusterid":4252
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.153656,50.843045 ]
+    },
+    "properties": {
+    "road":"Home Road",
+    "place":"Brighton & Hove",
+    "clusterid":4253
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.304596,51.457634 ]
+    },
+    "properties": {
+    "road":"Hill Rise",
+    "place":"Richmond Upon Thames",
+    "clusterid":4254
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.263792,51.749169 ]
+    },
+    "properties": {
+    "road":"Westgate Car Park (-1)",
+    "place":"Oxford",
+    "clusterid":4255
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.776286,50.735207 ]
+    },
+    "properties": {
+    "road":"Millhams St N",
+    "place":"Christchurch",
+    "clusterid":4256
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.932878,50.724516 ]
+    },
+    "properties": {
+    "road":"Car Park",
+    "place":"Lyme Regis",
+    "clusterid":4257
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.294827,51.491174 ]
+    },
+    "properties": {
+    "road":"Sainsbury's Car Park",
+    "place":"Chafford Hundred",
+    "clusterid":4258
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.145271,50.832319 ]
+    },
+    "properties": {
+    "road":"York Grove",
+    "place":"Brighton & Hove",
+    "clusterid":4259
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.317563,52.090274 ]
+    },
+    "properties": {
+    "road":"Station Car Park",
+    "place":"Woodbridge",
+    "clusterid":4260
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.472589,56.413254 ]
+    },
+    "properties": {
+    "road":"Queens Park Place",
+    "place":"Oban",
+    "clusterid":4261
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.889088,51.315866 ]
+    },
+    "properties": {
+    "road":"Central Car Park",
+    "place":"Faversham",
+    "clusterid":4262
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.505318,51.389331 ]
+    },
+    "properties": {
+    "road":"Cathedral Rochester Car Park",
+    "place":"Rochester",
+    "clusterid":4263
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.359678,51.378202 ]
+    },
+    "properties": {
+    "road":"SouthGate Car Park (-1 & -3)",
+    "place":"Bath",
+    "clusterid":4264
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.021438,51.540319 ]
+    },
+    "properties": {
+    "road":"Roach Road",
+    "place":"Tower Hamlets\n",
+    "clusterid":4265
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.267092,51.505914 ]
+    },
+    "properties": {
+    "road":"Salisbury Street Car Park",
+    "place":"Ealing",
+    "clusterid":4266
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.130016,52.201051 ]
+    },
+    "properties": {
+    "road":"Queen Anne Terrace Car Park (Ground)",
+    "place":"Cambridge",
+    "clusterid":4267
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.449337,55.046513 ]
+    },
+    "properties": {
+    "road":"Playhouse Car Park",
+    "place":"Whitley Bay",
+    "clusterid":4268
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.419997,55.015837 ]
+    },
+    "properties": {
+    "road":"Priors Haven Car Park",
+    "place":"Tynemouth",
+    "clusterid":4269
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.168333,51.495118 ]
+    },
+    "properties": {
+    "road":"Egerton Gardens",
+    "place":"Kensington and Chelsea\n",
+    "clusterid":4270
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.426345,51.588589 ]
+    },
+    "properties": {
+    "road":"Market Place",
+    "place":"Wantage",
+    "clusterid":4271
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.567638,50.721827 ]
+    },
+    "properties": {
+    "road":"Keyhaven Car Park",
+    "place":"Milford on Sea",
+    "clusterid":4272
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.528209,50.68377 ]
+    },
+    "properties": {
+    "road":"Avenue Road Car Park",
+    "place":"Freshwater",
+    "clusterid":4273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.514332,50.68088 ]
+    },
+    "properties": {
+    "road":"Tesco Car Park",
+    "place":"Freshwater",
+    "clusterid":4274
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.187599,51.492999 ]
+    },
+    "properties": {
+    "road":"Courtfield Gardens",
+    "place":"Kensington and Chelsea\n",
+    "clusterid":4275
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.707614,51.533293 ]
+    },
+    "properties": {
+    "road":"Western Esplanade",
+    "place":"Southend-on-Sea",
+    "clusterid":4276
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.205039,51.515054 ]
+    },
+    "properties": {
+    "road":"Elgin Crescent",
+    "place":"Kensington and Chelsea\n",
+    "clusterid":4277
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.142207,51.497666 ]
+    },
+    "properties": {
+    "road":"Bresseden Place",
+    "place":"City of Westminster",
+    "clusterid":4278
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.419113,51.505929 ]
+    },
+    "properties": {
+    "road":"Station Road",
+    "place":"Hayes",
+    "clusterid":4279
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.753065,52.706293 ]
+    },
+    "properties": {
+    "road":"Belmont",
+    "place":"Shrewsbury",
+    "clusterid":4280
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.265471,55.834465 ]
+    },
+    "properties": {
+    "road":"Victoria Road",
+    "place":"Glasgow",
+    "clusterid":4281
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.590564,50.85606 ]
+    },
+    "properties": {
+    "road":"High Street",
+    "place":"Hastings",
+    "clusterid":4282
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.199329,51.478355 ]
+    },
+    "properties": {
+    "road":"Fulham Ct",
+    "place":"Hammersmith and Fulham\n",
+    "clusterid":4283
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.160398,51.499466 ]
+    },
+    "properties": {
+    "road":"Pavilion Road",
+    "place":"Kensington and Chelsea\n",
+    "clusterid":4284
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.469769,51.733114 ]
+    },
+    "properties": {
+    "road":"High Chelmer Car Park",
+    "place":"Chelmsford",
+    "clusterid":4285
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.226209,57.481423 ]
+    },
+    "properties": {
+    "road":"Rose Street Car Park",
+    "place":"Inverness",
+    "clusterid":4286
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.224281,57.478992 ]
+    },
+    "properties": {
+    "road":"Union Street",
+    "place":"Inverness",
+    "clusterid":4287
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.146593,50.825108 ]
+    },
+    "properties": {
+    "road":"Upper North Street",
+    "place":"Brighton & Hove",
+    "clusterid":4288
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.207507,50.595222 ]
+    },
+    "properties": {
+    "road":"The Grove Car Park",
+    "place":"Ventnor",
+    "clusterid":4289
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.735151,51.339278 ]
+    },
+    "properties": {
+    "road":"Central Avenue Car Park",
+    "place":"Sittingbourne",
+    "clusterid":4290
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.119502,52.2095 ]
+    },
+    "properties": {
+    "road":"Park Street Car Park",
+    "place":"Cambridge",
+    "clusterid":4291
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.989802,50.800356 ]
+    },
+    "properties": {
+    "road":"Westfield Close Car Park",
+    "place":"Wimborne",
+    "clusterid":4292
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.315023,51.123557 ]
+    },
+    "properties": {
+    "road":"Car Park",
+    "place":"Dover",
+    "clusterid":4293
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.157012,50.82388 ]
+    },
+    "properties": {
+    "road":"Waterloo Street",
+    "place":"Brighton & Hove",
+    "clusterid":4294
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.204014,51.506659 ]
+    },
+    "properties": {
+    "road":"Holland Park (Permit)",
+    "place":"Kensington and Chelsea\n",
+    "clusterid":4295
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.59381,51.758897 ]
+    },
+    "properties": {
+    "road":"Car Park",
+    "place":"Carterton",
+    "clusterid":4296
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.17658,51.486455 ]
+    },
+    "properties": {
+    "road":"Elm Park Road",
+    "place":"Kensington and Chelsea\n",
+    "clusterid":4297
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.57755,50.857705 ]
+    },
+    "properties": {
+    "road":"Station Approach",
+    "place":"Hastings",
+    "clusterid":4298
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.577943,50.85594 ]
+    },
+    "properties": {
+    "road":"Priory Street",
+    "place":"Hastings",
+    "clusterid":4299
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.576542,50.854411 ]
+    },
+    "properties": {
+    "road":"Carlisle Parade",
+    "place":"Hastings",
+    "clusterid":4300
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.593596,50.85852 ]
+    },
+    "properties": {
+    "road":"Car Park",
+    "place":"Hastings",
+    "clusterid":4301
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.185633,51.494034 ]
+    },
+    "properties": {
+    "road":"Ashburn Gardens",
+    "place":"Kensington and Chelsea",
+    "clusterid":4302
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.192071,51.402892 ]
+    },
+    "properties": {
+    "road":"Abbotsbury Road",
+    "place":"Merton",
+    "clusterid":4303
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.753493,51.881071 ]
+    },
+    "properties": {
+    "road":"Rissington Road Car Park",
+    "place":"Cheltenham",
+    "clusterid":4304
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.574887,50.872014 ]
+    },
+    "properties": {
+    "road":"Village Centre Car Park",
+    "place":"Lyndhurst",
+    "clusterid":4305
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.072928,51.510358 ]
+    },
+    "properties": {
+    "road":"Minories Car Park",
+    "place":"City of London",
+    "clusterid":4306
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.954843,50.651549 ]
+    },
+    "properties": {
+    "road":"Hardys Road",
+    "place":"Studland Bay",
+    "clusterid":4307
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.243454,51.606411 ]
+    },
+    "properties": {
+    "road":"Broadway",
+    "place":"Didcot",
+    "clusterid":4308
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.583936,53.805379 ]
+    },
+    "properties": {
+    "road":"ALDI Car Park",
+    "place":"Leeds",
+    "clusterid":4309
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.305227,51.392292 ]
+    },
+    "properties": {
+    "road":"Surbition Train Station",
+    "place":"Kingston Upon Thames",
+    "clusterid":4310
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.909712,50.706623 ]
+    },
+    "properties": {
+    "road":"Branksome Chine Car Park",
+    "place":"Bournemouth ",
+    "clusterid":4311
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.106132,51.503402 ]
+    },
+    "properties": {
+    "road":"The Cut",
+    "place":"Southwark",
+    "clusterid":4312
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.985379,50.711953 ]
+    },
+    "properties": {
+    "road":"The Quay",
+    "place":"Poole",
+    "clusterid":4313
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.977876,50.717584 ]
+    },
+    "properties": {
+    "road":"Dolphin Centre",
+    "place":"Poole",
+    "clusterid":4314
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.258554,55.864128 ]
+    },
+    "properties": {
+    "road":"Bath Street",
+    "place":"Glasgow",
+    "clusterid":4315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.306063,55.878411 ]
+    },
+    "properties": {
+    "road":"Hyndland Road",
+    "place":"Glasgow",
+    "clusterid":4316
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.305358,55.879809 ]
+    },
+    "properties": {
+    "road":"Hyndland Road",
+    "place":"Glasgow",
+    "clusterid":4317
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.418519,55.846438 ]
+    },
+    "properties": {
+    "road":"Silk Road",
+    "place":"Paisley",
+    "clusterid":4318
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.969764,56.462116 ]
+    },
+    "properties": {
+    "road":"Commercial Street",
+    "place":"Dundee",
+    "clusterid":4319
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165276,51.495054 ]
+    },
+    "properties": {
+    "road":"Hasker Street (Permit)",
+    "place":"Kensington and Chelsea",
+    "clusterid":4320
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.065015,51.52639 ]
+    },
+    "properties": {
+    "road":"Bethnal Green Road",
+    "place":"Tower Hamlets",
+    "clusterid":4321
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.067429,51.526124 ]
+    },
+    "properties": {
+    "road":"Bethnal Green Road",
+    "place":"Tower Hamlets",
+    "clusterid":4322
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.228582,57.480461 ]
+    },
+    "properties": {
+    "road":"Church Street",
+    "place":"Inverness",
+    "clusterid":4323
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.317195,57.650977 ]
+    },
+    "properties": {
+    "road":"Car Park",
+    "place":"Elgin",
+    "clusterid":4324
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.317287,57.651113 ]
+    },
+    "properties": {
+    "road":"Car Park",
+    "place":"Elgin",
+    "clusterid":4325
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.317372,57.651244 ]
+    },
+    "properties": {
+    "road":"Car Park",
+    "place":"Elgin",
+    "clusterid":4326
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.31746,57.651376 ]
+    },
+    "properties": {
+    "road":"Car Park",
+    "place":"Elgin",
+    "clusterid":4327
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.316203,57.651163 ]
+    },
+    "properties": {
+    "road":"Car Park",
+    "place":"Elgin",
+    "clusterid":4328
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.316256,57.651299 ]
+    },
+    "properties": {
+    "road":"Car Park",
+    "place":"Elgin",
+    "clusterid":4329
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.316305,57.65145 ]
+    },
+    "properties": {
+    "road":"Car Park",
+    "place":"Elgin",
+    "clusterid":4330
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.316391,57.65158 ]
+    },
+    "properties": {
+    "road":"Car Park",
+    "place":"Elgin",
+    "clusterid":4331
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.31648,57.651714 ]
+    },
+    "properties": {
+    "road":"Car Park",
+    "place":"Elgin",
+    "clusterid":4332
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.333946,51.229605 ]
+    },
+    "properties": {
+    "road":"South Street Car Park",
+    "place":"Dorking",
+    "clusterid":4333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.440637,50.710464 ]
+    },
+    "properties": {
+    "road":"Fairfield Car Park",
+    "place":"Dorchester",
+    "clusterid":4334
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.206063,51.500015 ]
+    },
+    "properties": {
+    "road":"Oakwood Court (Permit)",
+    "place":"Kensington and Chelsea",
+    "clusterid":4335
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.172269,51.4842 ]
+    },
+    "properties": {
+    "road":"Paultons Street",
+    "place":"Kensington and Chelsea",
+    "clusterid":4336
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.148386,51.464824 ]
+    },
+    "properties": {
+    "road":"Victoria Rise",
+    "place":"Lambeth",
+    "clusterid":4337
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.224817,57.476117 ]
+    },
+    "properties": {
+    "road":"Castle Street",
+    "place":"Inverness",
+    "clusterid":4338
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.143873,51.486384 ]
+    },
+    "properties": {
+    "road":"Churchill Gardens Road ",
+    "place":"City of Westminster\n",
+    "clusterid":4339
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.144597,51.486392 ]
+    },
+    "properties": {
+    "road":"Churchill Gardens Road ",
+    "place":"City of Westminster\n",
+    "clusterid":4340
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.164272,50.728667 ]
+    },
+    "properties": {
+    "road":"Victoria Street Car Park",
+    "place":"Ryde",
+    "clusterid":4341
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.061926,51.490961 ]
+    },
+    "properties": {
+    "road":"Roseberry Street",
+    "place":"Southwark",
+    "clusterid":4342
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.064541,51.496089 ]
+    },
+    "properties": {
+    "road":"Stork's Road",
+    "place":"Southwark",
+    "clusterid":4343
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.143234,51.513886 ]
+    },
+    "properties": {
+    "road":"Hanover Square",
+    "place":"City of Westminster\n",
+    "clusterid":4344
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.086637,51.266842 ]
+    },
+    "properties": {
+    "road":"Kent & Canterbury Hospital",
+    "place":"Canterbury",
+    "clusterid":4345
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.523426,54.136385 ]
+    },
+    "properties": {
+    "road":"Market Place",
+    "place":"Ripon",
+    "clusterid":4346
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.256081,51.401367 ]
+    },
+    "properties": {
+    "road":"High Street",
+    "place":"Kingston Upon Thames\n",
+    "clusterid":4347
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.129646,50.819071 ]
+    },
+    "properties": {
+    "road":"Atlingworth Street",
+    "place":"Brighton & Hove",
+    "clusterid":4348
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.485819,52.904137 ]
+    },
+    "properties": {
+    "road":"Frogmore Road Car Park",
+    "place":"Market Drayton",
+    "clusterid":4349
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.484651,52.905225 ]
+    },
+    "properties": {
+    "road":"Queen Street Car Park",
+    "place":"Market Drayton",
+    "clusterid":4350
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.484977,52.906848 ]
+    },
+    "properties": {
+    "road":"Towers Lawn Car Park",
+    "place":"Market Drayton",
+    "clusterid":4351
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.146819,52.9038 ]
+    },
+    "properties": {
+    "road":"Christchurch Way Car Park",
+    "place":"Stone",
+    "clusterid":4352
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.680724,52.967741 ]
+    },
+    "properties": {
+    "road":"Tesco Car Park",
+    "place":"Whitchurch",
+    "clusterid":4353
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.523795,53.069177 ]
+    },
+    "properties": {
+    "road":"Snow Hill Car Park",
+    "place":"Nantwich",
+    "clusterid":4354
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.893477,52.909009 ]
+    },
+    "properties": {
+    "road":"Spar Bridge Car Park",
+    "place":"Ellesmere",
+    "clusterid":4355
     }
   }
 ]
